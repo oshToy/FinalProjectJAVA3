@@ -1,0 +1,5 @@
+MVC pattern .
+viewers alert conroller about user active .
+than controller tell the model(ContactManger) what to do .
+after model finish it alert the cotroller that it finish.
+controller update viewer.
